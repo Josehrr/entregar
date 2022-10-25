@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card{
+  width: fit-content;
+  padding: 10px;
+  box-shadow: 8px 8px 2px rgba(0, 0, 0, .2);
+  margin: 0 auto;
+  border-radius: 8px;
+  background: white;
+}
+
+.author{
+  text-align: right;
+  margin-right: 4rem;
+}
+.card button{
+  background: greenyellow;
+  border-radius: 50%;
+  padding: 10px;
+  border: none;
+
+}
